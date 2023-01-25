@@ -1,0 +1,129 @@
+{
+   "getit.library.nyu.edu/resolve?genre=article&isbn=&issn=00043079&title=Art%20Bulletin&volume=103&issue=4&date=20211201&atitle=%22Life%22%20Magazine%20and%20the%20Power%20of%20Photography%2C%20edited%20by%20Katherine%20A.%20Bussard%20and%20Kristen%20Gresh%3A%20New%20Haven%2C%20CT%3A%20Yale%20University%20Press%2C%202020.%20336%20pp.%3B%20250%20color%20and%20b%2Fw%20ills.%20%2460.00.&aulast=Berger,%20Martin%20A.&spage=144&sid=EBSCO:Academic%20Search%20Complete&pid=Berger,%20Martin%20A.15393498820211201Academic%20Search%20Complete": {
+      "citation": {
+         "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
+         "getit": "Article | \"Life Magazine and the Power of Photography edited by Katherine A Bussard and Kristen Gresh New Haven CT Yale University Press 2020 336 pp 250 color and b/w ills 60.00. | Berger Martin A 2021 Dec 01 | Published in Journal Art Bulletin Volume 103 Issue 4 Page 144. | ISSN:0004-3079"
+      },
+      "errors": {
+         "ariadne": [
+            "The backend API returned an HTTP error response: 400 (Bad Request)"
+         ]
+      },
+      "links": {
+         "common": [],
+         "unique": {
+            "ariadne": [],
+            "getit": [
+               "http://proxy.library.nyu.edu/login?url=https://openurl.ebsco.com/linksvc/linking.aspx?issue=4&genre=article&issn=0004-3079&spage=144&sid=Primo&volume=103&title=The+Art+Bulletin&date=20211201",
+               "http://proxy.library.nyu.edu/login?url=https://www.tandfonline.com/openurl?issn=0004-3079&genre=article&issue=4&volume=103&date=2021&spage=144"
+            ]
+         }
+      }
+   },
+   "getit.library.nyu.edu/resolve?genre=article&isbn=&issn=0277786X&title=Proceedings%20of%20SPIE&volume=12461&issue=&date=20230305&atitle=Design%20of%20LED%20light%20therapy%20device%20based%20on%20free-form%20lens.&aulast=Feng,%20Zefeng&spage=1246106&sid=EBSCO:Complementary%20Index&pid=Feng,%20Zefeng15990463220230305Complementary%20Index": {
+      "citation": {
+         "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
+         "getit": "Article | Design of LED light therapy device based on free-form lens. | Feng Zefeng 2023 Mar 05 | Published in Journal Proceedings of SPIE Volume 12461 Page 1246106. | ISSN:0277-786X"
+      },
+      "errors": {
+         "ariadne": [
+            "The backend API returned an HTTP error response: 400 (Bad Request)"
+         ]
+      },
+      "links": {
+         "common": [],
+         "unique": {
+            "ariadne": [],
+            "getit": [
+               "http://proxy.library.nyu.edu/login?url=https://www.spiedigitallibrary.org/conference-proceedings-of-spie"
+            ]
+         }
+      }
+   },
+   "getit.library.nyu.edu/resolve?genre=article&isbn=&issn=15377814&title=Journal%20of%20the%20Gilded%20Age%20&%20Progressive%20Era&volume=20&issue=2&date=20210401&atitle=Publish%20the%20Picture%20at%20Your%20Peril%3A%20Visual%20Ideas%20and%20the%20Commercial%20Apparatus%20of%20Life%20Magazine.&aulast=Schwartz,%20Joshua%20S.&spage=301&sid=EBSCO:America%3A%20History%20and%20Life%20with%20Full%20Text&pid=Schwartz,%20Joshua%20S.14996195320210401America%3A%20History%20and%20Life%20with%20Full%20Text": {
+      "citation": {
+         "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
+         "getit": "Article | Publish the Picture at Your Peril Visual Ideas and the Commercial Apparatus of Life Magazine. | Schwartz Joshua S 2021 Apr 01 | Published in Journal Journal of the Gilded Age Volume 20 Issue 2 Page 301. | ISSN:1537-7814"
+      },
+      "errors": {
+         "ariadne": [
+            "The backend API returned an HTTP error response: 400 (Bad Request)"
+         ]
+      },
+      "links": {
+         "common": [],
+         "unique": {
+            "ariadne": [],
+            "getit": [
+               "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?volume=20&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&date=2021-04-01&issue=2&res_dat=xri%3Apqm&jtitle=JOURNAL%2BOF%2BTHE%2BGILDED%2BAGE%2BAND%2BPROGRESSIVE%2BERA&url_ver=Z39.88-2004&issn=1537-7814&genre=article&spage=301",
+               "http://proxy.library.nyu.edu/login?url=https://openurl.ebsco.com/linksvc/linking.aspx?issn=1537-7814&genre=article&issue=2&spage=301&title=JOURNAL+OF+THE+GILDED+AGE+AND+PROGRESSIVE+ERA&volume=20&sid=Primo&date=20210401",
+               "http://proxy.library.nyu.edu/login?url=https://www.cambridge.org/core/product/113A938A653BAE7C42654C34EC40B874"
+            ]
+         }
+      }
+   },
+   "getit.library.nyu.edu/resolve?genre=article&isbn=&issn=17417279&title=Journal%20of%20Design%20History&volume=35&issue=2&date=20220601&atitle=Modelling%20Modular%20Living%3A%20Furniture%20and%20Life%20Magazine%20and%20Interior%20Design%20in%201980s%20China&aulast=Altehenger,%20J.&spage=151&sid=EBSCO:Scopus%C2%AE&pid=Altehenger,%20J.edselc.2-52.0-8513384126720220601Scopus%C2%AE": {
+      "citation": {
+         "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
+         "getit": "Article | Modelling Modular Living Furniture and Life Magazine and Interior Design in 1980s China | Altehenger J 2022 Jun 01 | Published in Journal Journal of Design History Volume 35 Issue 2 Page 151. | ISSN:0952-4649"
+      },
+      "errors": {
+         "ariadne": [
+            "The backend API returned an HTTP error response: 400 (Bad Request)"
+         ]
+      },
+      "links": {
+         "common": [],
+         "unique": {
+            "ariadne": [],
+            "getit": [
+               "http://proxy.library.nyu.edu/login?url=https://academic.oup.com/jdh/article/35/2/151/article"
+            ]
+         }
+      }
+   },
+   "getit.library.nyu.edu/resolve?genre=bookitem&isbn=9780190280390&issn=&title=Our%20Lady%20of%20everyday%20life:%20la%20Virgen%20de%20Guadalupe%20and%20the%20Catholic%20imagination%20of%20Mexican%20women%20in%20America&volume=&issue=&date=20180101&atitle=&aulast=&spage=&sid=EBSCO:Chicano%20Database&pid=XCHD8493320180101Chicano%20Database": {
+      "citation": {
+         "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
+         "getit": "Book Chapter | Our Lady of everyday life la Virgen de Guadalupe and the Catholic imagination of Mexican American women in America | Castanedal-Liles Maria Del Socorro 2018 Jan 01 |  | Publisher:Oxford University Press ISBN:9780190280390"
+      },
+      "errors": {
+         "ariadne": [
+            "The backend API returned an HTTP error response: 400 (Bad Request)"
+         ]
+      },
+      "links": {
+         "common": [],
+         "unique": {
+            "ariadne": [],
+            "getit": [
+               "http://proxy.library.nyu.edu/login?url=https://academic.oup.com/book/4545",
+               "https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=5294929",
+               "https://login.libproxy.newschool.edu/login?url=https://academic.oup.com/book/4545"
+            ]
+         }
+      }
+   },
+   "getit.library.nyu.edu/resolve?umlaut.institution=NYU%C2%A8aut.institution%3DNYU&umlaut.referent_id=19185671&url_ver=Z39.88-2004&url_ctx_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Actx&ctx_ver=Z39.88-2004&ctx_tim=2022-11-10T10%3A42%3A37-05%3A00&ctx_id=&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rft.btitle=The+Year%27s+work+in+modern+language+studies.&rft.eissn=2222-4297&rft.genre=journal&rft.issn=00844152&rft.jtitle=The+Year%27s+work+in+modern+language+studies&rft.language=eng&rft.lccn=+++31032540+&rft.object_id=110978977977146&rft.oclcnum=1770339&rft.place=London+%5Betc.%5D&rft.pub=Modern+Humanities+Research+Association+%5Betc.%5D&rft.stitle=YEARS+WORK+IN+MODERN+LANGUAGE+STUDIES&rft.title=The+Year%27s+work+in+modern+language+studies.&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft_id=info%3Alccn%2F31032540&rfr_id=info%3Asid%2Fsfxit.com%3Acitation": {
+      "citation": {
+         "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
+         "getit": "Journal | The Year's work in modern language studies. | 1931 |  | ISSN:0084-4152"
+      },
+      "errors": {},
+      "links": {
+         "common": [],
+         "unique": {
+            "ariadne": [
+               "http://proxy.library.nyu.edu/login?url=https://ill.library.nyu.edu/illiad/illiad.dll/OpenURL?genre=article&issn=0084-4152&sid=DEFAULT+%28Via+SFX%29&title=The+Year%27s+Work+in+Modern+Language+Studies"
+            ],
+            "getit": [
+               "http://proxy.library.nyu.edu/login?url=http://brill.com/content/journals/22224297",
+               "http://proxy.library.nyu.edu/login?url=http://brill.com/content/journals/22224297",
+               "http://proxy.library.nyu.edu/login?url=http://brill.com/view/journals/ywml/ywml-overview.xml",
+               "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?genre=journal&res_dat=xri%3Apqm&rfr_id=info%3Axri%2Fsid%3Aprimo&rft_id=1817653&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&url_ver=Z39.88-2004",
+               "http://proxy.library.nyu.edu/login?url=https://www.jstor.org/action/showPublication?journalCode=yearworkmodlang"
+            ]
+         }
+      }
+   }
+}
