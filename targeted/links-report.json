@@ -113,14 +113,12 @@
       "links": {
          "common": [],
          "unique": {
-            "ariadne": [
-               "http://proxy.library.nyu.edu/login?url=https://ill.library.nyu.edu/illiad/illiad.dll/OpenURL?genre=article&issn=0084-4152&sid=DEFAULT+%28Via+SFX%29&title=The+Year%27s+Work+in+Modern+Language+Studies"
-            ],
+            "ariadne": [],
             "getit": [
                "http://proxy.library.nyu.edu/login?url=http://brill.com/content/journals/22224297",
                "http://proxy.library.nyu.edu/login?url=http://brill.com/content/journals/22224297",
                "http://proxy.library.nyu.edu/login?url=http://brill.com/view/journals/ywml/ywml-overview.xml",
-               "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?genre=journal&res_dat=xri%3Apqm&rfr_id=info%3Axri%2Fsid%3Aprimo&rft_id=1817653&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&url_ver=Z39.88-2004",
+               "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?rfr_id=info%3Axri%2Fsid%3Aprimo&genre=journal&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft_id=1817653&url_ver=Z39.88-2004&res_dat=xri%3Apqm",
                "http://proxy.library.nyu.edu/login?url=https://www.jstor.org/action/showPublication?journalCode=yearworkmodlang"
             ]
          }
