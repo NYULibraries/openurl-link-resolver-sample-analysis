@@ -14,8 +14,8 @@
          "unique": {
             "ariadne": [],
             "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://openurl.ebsco.com/linksvc/linking.aspx?issue=4&genre=article&issn=0004-3079&spage=144&sid=Primo&volume=103&title=The+Art+Bulletin&date=20211201",
-               "http://proxy.library.nyu.edu/login?url=https://www.tandfonline.com/openurl?issn=0004-3079&genre=article&issue=4&volume=103&date=2021&spage=144"
+               "http://proxy.library.nyu.edu/login?url=https://openurl.ebsco.com/linksvc/linking.aspx?issn=0004-3079&genre=article&title=The+Art+Bulletin&atitle=%22life%22+magazine+and+the+power+of+photography&date=20211201&sid=Primo&spage=144&volume=103&issue=4",
+               "http://proxy.library.nyu.edu/login?url=https://www.tandfonline.com/openurl?spage=144&issue=4&volume=103&date=2021&issn=0004-3079&genre=article"
             ]
          }
       }
@@ -55,8 +55,8 @@
          "unique": {
             "ariadne": [],
             "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?volume=20&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&date=2021-04-01&issue=2&res_dat=xri%3Apqm&jtitle=JOURNAL%2BOF%2BTHE%2BGILDED%2BAGE%2BAND%2BPROGRESSIVE%2BERA&url_ver=Z39.88-2004&issn=1537-7814&genre=article&spage=301",
-               "http://proxy.library.nyu.edu/login?url=https://openurl.ebsco.com/linksvc/linking.aspx?issn=1537-7814&genre=article&issue=2&spage=301&title=JOURNAL+OF+THE+GILDED+AGE+AND+PROGRESSIVE+ERA&volume=20&sid=Primo&date=20210401",
+               "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?res_dat=xri%3Apqm&spage=301&issue=2&volume=20&date=2021-04-01&jtitle=JOURNAL%2BOF%2BTHE%2BGILDED%2BAGE%2BAND%2BPROGRESSIVE%2BERA&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&issn=1537-7814&genre=article&url_ver=Z39.88-2004",
+               "http://proxy.library.nyu.edu/login?url=https://openurl.ebsco.com/linksvc/linking.aspx?title=JOURNAL+OF+THE+GILDED+AGE+AND+PROGRESSIVE+ERA&atitle=publish+the+picture+at+your+peril&issn=1537-7814&genre=article&spage=301&volume=20&issue=2&date=20210401&sid=Primo",
                "http://proxy.library.nyu.edu/login?url=https://www.cambridge.org/core/product/113A938A653BAE7C42654C34EC40B874"
             ]
          }
@@ -118,7 +118,7 @@
                "http://proxy.library.nyu.edu/login?url=http://brill.com/content/journals/22224297",
                "http://proxy.library.nyu.edu/login?url=http://brill.com/content/journals/22224297",
                "http://proxy.library.nyu.edu/login?url=http://brill.com/view/journals/ywml/ywml-overview.xml",
-               "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?rfr_id=info%3Axri%2Fsid%3Aprimo&genre=journal&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft_id=1817653&url_ver=Z39.88-2004&res_dat=xri%3Apqm",
+               "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&res_dat=xri%3Apqm&url_ver=Z39.88-2004&genre=journal&rfr_id=info%3Axri%2Fsid%3Aprimo&rft_id=1817653",
                "http://proxy.library.nyu.edu/login?url=https://www.jstor.org/action/showPublication?journalCode=yearworkmodlang"
             ]
          }
