@@ -18,18 +18,14 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | The role of pubertal timing in the link between family history of alcohol use disorder and late adolescent substance use | 2020 | Published in Journal Drug and Alcohol Dependence Volume 210 Page 107955. | ISSN:0376-8716"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://www.sciencedirect.com/science?_method=citationSearch&_ob=GatewayURL&_origin=SFX&_version=1&_volkey=03768716%23210%23107955&md5=aebce39e5fb6156d72225376e11e6525"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://www.sciencedirect.com/search?docId=03768716&volume=210&page=107955"
-            ]
+            "getit": []
          }
       }
    },
@@ -38,19 +34,19 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Covid-19 vaccines and periods | GILES 2021 | Published in Journal New Scientist Volume 250 Issue 3341 Page 14. | ISSN:0262-4079"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://advance.lexis.com/api/search/advanced?identityprofileid=W4HVBF32601&source=MTA2ODg4MQ",
+            "http://proxy.library.nyu.edu/login?url=https://advance.lexis.com/api/search?context=1516831&source=MTA2ODg4MQ"
+         ],
          "unique": {
-            "ariadne": [],
+            "ariadne": [
+               "http://proxy.library.nyu.edu/login?url=https://search.ebscohost.com/login.aspx?bquery=%28SO+%28NEW+SCIENTIST%29%29AND%28DT+2021%29AND%28TI+covid-19+vaccines+and+periods%29&db=ACI&direct=true&sid=Primo&site=ehost-live&type=1",
+               "http://proxy.library.nyu.edu/login?url=https://search.ebscohost.com/login.aspx?bquery=%28SO+%28NEW+SCIENTIST%29%29AND%28DT+2021%29AND%28TI+covid-19+vaccines+and+periods%29&db=a9h&direct=true&sid=Primo&site=ehost-live&type=1"
+            ],
             "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://advance.lexis.com/api/search/advanced?source=MTA2ODg4MQ&identityprofileid=W4HVBF32601",
-               "http://proxy.library.nyu.edu/login?url=https://advance.lexis.com/api/search?source=MTA2ODg4MQ&context=1516831",
-               "http://proxy.library.nyu.edu/login?url=https://openurl.ebsco.com/linksvc/linking.aspx?genre=article&issn=0262-4079&title=NEW+SCIENTIST&atitle=covid-19+vaccines+and+periods&date=2021-07&sid=Primo&doi=10.1016%2FS0262-4079(21)01125-8&spage=14&volume=250&issue=3341"
+               "http://proxy.library.nyu.edu/login?url=https://openurl.ebsco.com/linksvc/linking.aspx?atitle=covid-19+vaccines+and+periods&date=2021-07&doi=10.1016%2FS0262-4079%2821%2901125-8&genre=article&issn=0262-4079&issue=3341&sid=Primo&spage=14&title=NEW+SCIENTIST&volume=250"
             ]
          }
       }
@@ -60,19 +56,18 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Postural Pseudoanemia Posture-Dependent Change in Hematocrit | JACOB 2005 | Published in Journal Mayo Clinic Proceedings Volume 80 Issue 5 Page 611 614. | ISSN:0025-6196"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?date=2005&genre=article&issn=0025-6196&issue=5&jtitle=MAYO%2BCLINIC%2BPROCEEDINGS&res_dat=xri%3Apqm&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&spage=611&url_ver=Z39.88-2004&volume=80",
+            "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?date=2005&genre=article&issn=0025-6196&issue=5&jtitle=MAYO%2BCLINIC%2BPROCEEDINGS&res_dat=xri%3Apqm&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&spage=611&url_ver=Z39.88-2004&volume=80"
+         ],
          "unique": {
-            "ariadne": [],
+            "ariadne": [
+               "http://proxy.library.nyu.edu/login?url=https://ovidsp.ovid.com/ovidweb.cgi?CSC=Y&D=ovft&MODE=ovid&NEWS=N&PAGE=fulltext&SEARCH=%220025-6196%22.is+and+%2280%22.vo+and+%225%22.ip+and+%22611%22.pg&T=JS&checkipval=yes"
+            ],
             "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&issn=0025-6196&genre=article&url_ver=Z39.88-2004&volume=80&issue=5&spage=611&res_dat=xri%3Apqm&jtitle=MAYO%2BCLINIC%2BPROCEEDINGS&date=2005",
-               "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&url_ver=Z39.88-2004&genre=article&issn=0025-6196&volume=80&issue=5&res_dat=xri%3Apqm&spage=611&jtitle=MAYO%2BCLINIC%2BPROCEEDINGS&date=2005",
-               "http://proxy.library.nyu.edu/login?url=https://ovidsp.ovid.com/ovidweb.cgi?SEARCH=%220025-6196%22.is+and+%2280%22.vo+and+%225%22.ip+and+%22611%22.pg+or+%2210.4065%2F80.5.611%22.di&PAGE=fulltext&NEWS=N&D=ovft&checkipval=yes&T=JS&CSC=Y&MODE=ovid"
+               "http://proxy.library.nyu.edu/login?url=https://ovidsp.ovid.com/ovidweb.cgi?CSC=Y&D=ovft&MODE=ovid&NEWS=N&PAGE=fulltext&SEARCH=%220025-6196%22.is+and+%2280%22.vo+and+%225%22.ip+and+%22611%22.pg+or+%2210.4065%2F80.5.611%22.di&T=JS&checkipval=yes"
             ]
          }
       }
@@ -82,11 +77,7 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Nouvelle soci\\u00e9t\\u00e9 nouvelles familles nouvelle personnalit\\u00e9 de base De la personnalit\\u00e9 n\\u00e9vrotique u00e0 la personnalit\\u00e9 narcissico-h\\u00e9doniste | LAZARTIGUES 2007 | Published in Journal L'Enc\\u00e9phale Volume 33 Issue 3 Page 293 299. | ISSN:0013-7006"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
@@ -100,15 +91,13 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Risk of venous thromboembolism in patients with elevated INR undergoing hepatectomy an analysis of the American college of surgeons national surgical quality improvement program registry | MAVROS 2020 | Published in Journal HPB Volume 23 Issue 7 Page 1008 1015. | ISSN:1365-182X"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
-            "ariadne": [],
+            "ariadne": [
+               "http://proxy.library.nyu.edu/login?url=https://www.sciencedirect.com/science/journal/1365182X"
+            ],
             "getit": [
                "http://proxy.library.nyu.edu/login?url=https://www.sciencedirect.com/science/article/pii/S1365182X20312168"
             ]
@@ -120,11 +109,7 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Book Chapter | Acculturative Stress and Mental Health Implications for Immigrant-Origin Youth | Stephen Ludwig 2019 | Published in Book Pediatric Clinics of North America Volume 66 Issue 3 Page 641 653. | Publisher:Elsevier ISSN:0031-3955 ISBN:9780323678681"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
@@ -152,11 +137,7 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Journal | The Archaeology of the Israelite Settlement | Finkelstein I 1988 |  | "
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
@@ -202,20 +183,16 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Group Process and Group Phenomena on the Internet | Weinberg H 2001 Jan 01 | Published in Journal INTERNATIONAL JOURNAL OF GROUP PSYCHOTHERAPY Volume 51 Issue 3 Page 361. | ISSN:0020-7284"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?date=2001-01-01&genre=article&issn=0020-7284&issue=3&jtitle=INTERNATIONAL%2BJOURNAL%2BOF%2BGROUP%2BPSYCHOTHERAPY&res_dat=xri%3Apqm&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&spage=361&url_ver=Z39.88-2004&volume=51",
+            "http://proxy.library.nyu.edu/login?url=https://guilfordjournals.com/openurl?date=2001&genre=article&issn=0020-7284&issue=3&spage=361&volume=51",
+            "http://proxy.library.nyu.edu/login?url=https://www.tandfonline.com/openurl?date=2001&genre=article&issn=0020-7284&issue=3&spage=361&volume=51"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?res_dat=xri%3Apqm&spage=361&issue=3&volume=51&date=2001-01-01&jtitle=INTERNATIONAL%2BJOURNAL%2BOF%2BGROUP%2BPSYCHOTHERAPY&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&issn=0020-7284&url_ver=Z39.88-2004&genre=article",
-               "http://proxy.library.nyu.edu/login?url=https://guilfordjournals.com/openurl?date=2001&genre=article&issn=0020-7284&spage=361&volume=51&issue=3",
-               "http://proxy.library.nyu.edu/login?url=https://www.tandfonline.com/openurl?issue=3&volume=51&spage=361&issn=0020-7284&genre=article&date=2001"
-            ]
+            "getit": []
          }
       }
    },
@@ -224,11 +201,7 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Mosques of Kerala\\u2014a study of adaptation and re-adaptation of the Islamic tradition. | Kuttiammu T P 1979 Mar 01 | Published in Journal Marg Volume 32 Page 85. | ISSN:0025-2913"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
@@ -242,26 +215,23 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Primates A Natural Heritage of Conflict Resolution | Frans B M de Waal 2000 Jul 28 | Published in Journal Science Volume 289 Issue 5479 Page 586. | ISSN:0036-8075"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://find.gale.com/openurl/openurl?ctx_enc=info%3Aofi%3Aenc%3AUTF-8&req_dat=info%3Asid%2Fgale%3Augnid%3Anysl_me_newyorku&res_id=info%3Asid%2Fgale%3AHRCA&rft.atitle=Primates+A+Natural+Heritage+of+Conflict+Resolution&rft.date=2000&rft.eissn=1095-9203&rft.issn=0036-8075&rft.issue=5479&rft.jtitle=SCIENCE&rft.spage=586&rft.volume=289&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&url_ctx_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Actx&url_ver=Z39.88-2004",
+            "http://proxy.library.nyu.edu/login?url=https://find.gale.com/openurl/openurl?ctx_enc=info%3Aofi%3Aenc%3AUTF-8&req_dat=info%3Asid%2Fgale%3Augnid%3Anysl_me_newyorku&res_id=info%3Asid%2Fgale%3AITOF&rft.atitle=Primates+A+Natural+Heritage+of+Conflict+Resolution&rft.date=2000&rft.eissn=1095-9203&rft.issn=0036-8075&rft.jtitle=SCIENCE&rft.spage=586&rft.volume=289&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&url_ctx_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Actx&url_ver=Z39.88-2004",
+            "http://proxy.library.nyu.edu/login?url=https://find.gale.com/openurl/openurl?ctx_enc=info%3Aofi%3Aenc%3AUTF-8&req_dat=info%3Asid%2Fgale%3Augnid%3Anysl_me_newyorku&res_id=info%3Asid%2Fgale%3AOVIC&rft.atitle=Primates+A+Natural+Heritage+of+Conflict+Resolution&rft.date=2000&rft.eissn=1095-9203&rft.issn=0036-8075&rft.jtitle=SCIENCE&rft.spage=586&rft.volume=289&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&url_ctx_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Actx&url_ver=Z39.88-2004",
+            "http://proxy.library.nyu.edu/login?url=https://find.gale.com/openurl/openurl?ctx_enc=info%3Aofi%3Aenc%3AUTF-8&req_dat=info%3Asid%2Fgale%3Augnid%3Anysl_me_newyorku&res_id=info%3Asid%2Fgale%3APPNU&rft.atitle=Primates+A+Natural+Heritage+of+Conflict+Resolution&rft.date=2000&rft.eissn=1095-9203&rft.issn=0036-8075&rft.jtitle=SCIENCE&rft.spage=586&rft.volume=289&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&url_ctx_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Actx&url_ver=Z39.88-2004",
+            "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?date=2000-07-28&genre=article&issn=0036-8075&issue=5479&jtitle=SCIENCE&res_dat=xri%3Apqm&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&spage=586&url_ver=Z39.88-2004&volume=289",
+            "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?date=2000-07-28&genre=article&issn=0036-8075&issue=5479&jtitle=SCIENCE&res_dat=xri%3Apqm&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&spage=586&url_ver=Z39.88-2004&volume=289",
+            "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?date=2000-07-28&genre=article&issn=0036-8075&issue=5479&jtitle=SCIENCE&res_dat=xri%3Apqm&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&spage=586&url_ver=Z39.88-2004&volume=289",
+            "http://proxy.library.nyu.edu/login?url=https://www.jstor.org/openurl?au=Frans+B.+M.+de+Waal%2C&date=2000&issn=00368075&issue=5479&sid=primo&spage=586&volume=289",
+            "http://proxy.library.nyu.edu/login?url=https://www.science.org/journal/science",
+            "http://science.sciencemag.org/content/289/5479/586"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://find.gale.com/openurl/openurl?rft.atitle=Primates+A+Natural+Heritage+of+Conflict+Resolution&rft.eissn=1095-9203&rft.issn=0036-8075&url_ver=Z39.88-2004&req_dat=info%3Asid%2Fgale%3Augnid%3Anysl_me_newyorku&rft.date=2000&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&ctx_enc=info%3Aofi%3Aenc%3AUTF-8&rft.spage=586&rft.volume=289&url_ctx_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Actx&res_id=info%3Asid%2Fgale%3APPNU&rft.jtitle=SCIENCE",
-               "http://proxy.library.nyu.edu/login?url=https://find.gale.com/openurl/openurl?rft.spage=586&ctx_enc=info%3Aofi%3Aenc%3AUTF-8&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.jtitle=SCIENCE&res_id=info%3Asid%2Fgale%3AOVIC&url_ctx_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Actx&rft.volume=289&url_ver=Z39.88-2004&rft.date=2000&req_dat=info%3Asid%2Fgale%3Augnid%3Anysl_me_newyorku&rft.issn=0036-8075&rft.eissn=1095-9203&rft.atitle=Primates+A+Natural+Heritage+of+Conflict+Resolution",
-               "http://proxy.library.nyu.edu/login?url=https://find.gale.com/openurl/openurl?url_ctx_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Actx&rft.volume=289&rft.jtitle=SCIENCE&res_id=info%3Asid%2Fgale%3AITOF&ctx_enc=info%3Aofi%3Aenc%3AUTF-8&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.spage=586&req_dat=info%3Asid%2Fgale%3Augnid%3Anysl_me_newyorku&rft.date=2000&url_ver=Z39.88-2004&rft.issn=0036-8075&rft.atitle=Primates+A+Natural+Heritage+of+Conflict+Resolution&rft.eissn=1095-9203",
-               "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?jtitle=SCIENCE&date=2000-07-28&issue=5479&volume=289&spage=586&res_dat=xri%3Apqm&issn=0036-8075&url_ver=Z39.88-2004&genre=article&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle",
-               "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?res_dat=xri%3Apqm&spage=586&issue=5479&volume=289&date=2000-07-28&jtitle=SCIENCE&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&issn=0036-8075&url_ver=Z39.88-2004&genre=article",
-               "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?volume=289&issue=5479&res_dat=xri%3Apqm&spage=586&jtitle=SCIENCE&date=2000-07-28&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&genre=article&url_ver=Z39.88-2004&issn=0036-8075",
-               "http://proxy.library.nyu.edu/login?url=https://www.jstor.org/openurl?date=2000&au=Frans+B.+M.+de+Waal%2C&issn=00368075&sid=primo&spage=586&volume=289&issue=5479",
-               "http://proxy.library.nyu.edu/login?url=https://www.science.org/journal/science",
-               "http://science.sciencemag.org/content/289/5479/586"
-            ]
+            "getit": []
          }
       }
    },
@@ -270,18 +240,14 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Pesticides and their degradates in groundwater reflect past use and current management strategies Long Island New York USA | Fisher Irene J 2021 Jan 15 | Published in Journal Science of the Total Environment Volume 752. | ISSN:0048-9697"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://www.sciencedirect.com/science/journal/00489697/752"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://www.sciencedirect.com/science/journal/00489697/752"
-            ]
+            "getit": []
          }
       }
    },
@@ -290,11 +256,7 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Las mujeres de Garc\\u00eda M\\u00e1rquez un retrato en sepia. | Vega Castro Lyda 2014 Jul 01 | Published in Journal Revista de Estudios Colombianos Issue 44 Page 27. | ISSN:0121-2117"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
@@ -308,20 +270,16 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Helping Students Navigate the College Choice Process The Experiences and Practices of College Advising Professionals in Public High Schools | Clayton Ashley B 2019 Jan 01 | Published in Journal Review of Higher Education Volume 42 Issue 4 Page 1401. | ISSN:0162-5748"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?date=2019-01-01&genre=article&issn=0162-5748&issue=4&jtitle=REVIEW%2BOF%2BHIGHER%2BEDUCATION&res_dat=xri%3Apqm&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&spage=1401&url_ver=Z39.88-2004&volume=42",
+            "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?date=2019-01-01&genre=article&issn=0162-5748&issue=4&jtitle=REVIEW%2BOF%2BHIGHER%2BEDUCATION&res_dat=xri%3Apqm&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&spage=1401&url_ver=Z39.88-2004&volume=42",
+            "http://proxy.library.nyu.edu/login?url=https://muse.jhu.edu/cgi-bin/resolve_openurl.cgi?atitle=Helping+Students+Navigate+the+College+Choice+Process%3A+The+Experiences+and+Practices+of+College+Advising+Professionals+in+Public+High+Schools&aufirst=Ashley&aulast=clayton&date=2019&eissn=1090-7009&genre=&issn=0162-5748&issue=4&spage=1401&volume=42"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&url_ver=Z39.88-2004&genre=article&issn=0162-5748&volume=42&issue=4&res_dat=xri%3Apqm&spage=1401&jtitle=REVIEW%2BOF%2BHIGHER%2BEDUCATION&date=2019-01-01",
-               "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?volume=42&issue=4&res_dat=xri%3Apqm&spage=1401&jtitle=REVIEW%2BOF%2BHIGHER%2BEDUCATION&date=2019-01-01&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&genre=article&url_ver=Z39.88-2004&issn=0162-5748",
-               "http://proxy.library.nyu.edu/login?url=https://muse.jhu.edu/cgi-bin/resolve_openurl.cgi?genre=&eissn=1090-7009&issn=0162-5748&volume=42&issue=4&spage=1401&date=2019&aufirst=Ashley&aulast=clayton&atitle=Helping%20Students%20Navigate%20the%20College%20Choice%20Process:%20The%20Experiences%20and%20Practices%20of%20College%20Advising%20Professionals%20in%20Public%20High%20Schools"
-            ]
+            "getit": []
          }
       }
    },
@@ -330,23 +288,17 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | THE BOYS IN THE BAND. | Krasner David 2019 Mar 01 | Published in Journal THEATRE JOURNAL Volume 71 Issue 1 Page 111. | ISSN:0192-2882"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?date=2019-03-01&genre=article&issn=0192-2882&issue=1&jtitle=Theatre%2BJournal&res_dat=xri%3Apqm&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&spage=111&url_ver=Z39.88-2004&volume=71",
+            "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?date=2019-03-01&genre=article&issn=0192-2882&issue=1&jtitle=Theatre%2BJournal&res_dat=xri%3Apqm&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&spage=111&url_ver=Z39.88-2004&volume=71",
+            "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?date=2019-03-01&genre=article&issn=0192-2882&issue=1&jtitle=Theatre%2BJournal&res_dat=xri%3Apqm&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&spage=111&url_ver=Z39.88-2004&volume=71",
+            "http://proxy.library.nyu.edu/login?url=https://muse.jhu.edu/cgi-bin/resolve_openurl.cgi?atitle=THE+BOYS+IN+THE+BAND.&aufirst=David&aulast=krasner&date=2019&eissn=1086-332X&genre=&issn=0192-2882&issue=1&spage=111&volume=71"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://find.gale.com/openurl/openurl?rft.jtitle=Theatre+Journal&res_id=info%3Asid%2Fgale%3AITOF&url_ctx_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Actx&rft.volume=71&rft.spage=111&ctx_enc=info%3Aofi%3Aenc%3AUTF-8&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.date=2019&req_dat=info%3Asid%2Fgale%3Augnid%3Anysl_me_newyorku&url_ver=Z39.88-2004&rft.issue=1&rft.issn=0192-2882&rft.eissn=1086-332X&rft.atitle=THE+BOYS+IN+THE+BAND.",
-               "http://proxy.library.nyu.edu/login?url=https://find.gale.com/openurl/openurl?rft.spage=111&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&ctx_enc=info%3Aofi%3Aenc%3AUTF-8&rft.jtitle=Theatre+Journal&res_id=info%3Asid%2Fgale%3ALitRC&url_ctx_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Actx&rft.volume=71&url_ver=Z39.88-2004&rft.issue=1&rft.date=2019&req_dat=info%3Asid%2Fgale%3Augnid%3Anew64731&rft.issn=0192-2882&rft.eissn=1086-332X&rft.atitle=THE+BOYS+IN+THE+BAND.",
-               "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?jtitle=Theatre%2BJournal&date=2019-03-01&issue=1&volume=71&res_dat=xri%3Apqm&spage=111&url_ver=Z39.88-2004&genre=article&issn=0192-2882&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle",
-               "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?spage=111&res_dat=xri%3Apqm&issue=1&volume=71&date=2019-03-01&jtitle=Theatre%2BJournal&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&issn=0192-2882&genre=article&url_ver=Z39.88-2004",
-               "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?volume=71&issue=1&spage=111&res_dat=xri%3Apqm&jtitle=Theatre%2BJournal&date=2019-03-01&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&issn=0192-2882&genre=article&url_ver=Z39.88-2004",
-               "http://proxy.library.nyu.edu/login?url=https://muse.jhu.edu/cgi-bin/resolve_openurl.cgi?genre=&eissn=1086-332X&issn=0192-2882&volume=71&issue=1&spage=111&date=2019&aufirst=David&aulast=krasner&atitle=THE%20BOYS%20IN%20THE%20BAND."
-            ]
+            "getit": []
          }
       }
    },
@@ -355,18 +307,14 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | The relationship between board diversity and firm performance in the lodging industry The moderating role of internationalization | Song Hyoung Ju 2020 Apr 01 | Published in Journal International Journal of Hospitality Management Volume 86. | ISSN:0278-4319"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://www.sciencedirect.com/science/journal/02784319/86"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://www.sciencedirect.com/science/journal/02784319/86"
-            ]
+            "getit": []
          }
       }
    },
@@ -375,20 +323,16 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Antiracism a neoliberal alternative to a Left. | Reed Adolph 2018 Jun 01 | Published in Journal Dialectical Anthropology Volume 42 Issue 2 Page 105. | ISSN:0304-4092"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?date=2018-06-01&genre=article&issn=0304-4092&issue=2&jtitle=Dialectical%2BAnthropology&res_dat=xri%3Apqm&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&spage=105&url_ver=Z39.88-2004&volume=42",
+            "http://proxy.library.nyu.edu/login?url=https://link.springer.com/openurl?genre=article&issn=0304-4092&issue=2&page=105&volume=42",
+            "http://proxy.library.nyu.edu/login?url=https://www.jstor.org/openurl?au=Reed%2C+Adolph&date=2018&issn=03044092&issue=2&sid=primo&spage=105&volume=42"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?date=2018-06-01&jtitle=Dialectical%2BAnthropology&res_dat=xri%3Apqm&spage=105&volume=42&issue=2&issn=0304-4092&genre=article&url_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle",
-               "http://proxy.library.nyu.edu/login?url=https://link.springer.com/openurl?issn=0304-4092&genre=article&page=105&issue=2&volume=42",
-               "http://proxy.library.nyu.edu/login?url=https://www.jstor.org/openurl?au=Reed%2C+Adolph&issn=03044092&sid=primo&date=2018&volume=42&issue=2&spage=105"
-            ]
+            "getit": []
          }
       }
    },
@@ -397,18 +341,14 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Hamlet the Murderer for His Own Love Tragedy | \\u5f0b\\u831c 2011 Jan 01 | Published in Journal u6295\\u8d44\\u4e0e\\u5408\\u4f5c\\uff1a\\u5b66\\u672f\\u7248 Issue 10 Page 268. | ISSN:1004-387X"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://oversea.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=tzyh"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://oversea.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=tzyh"
-            ]
+            "getit": []
          }
       }
    },
@@ -417,19 +357,15 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Chinese Porcelain Collection in Topkapi Palace A Witness of Friendship | 2009 Jan 01 | Published in Journal u4e2d\\u5916\\u6587\\u5316\\u4ea4\\u6d41\\uff1a\\u82f1\\u6587\\u7248 China Issue 2 Page 29. | ISSN:1004-5015"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://advance.lexis.com/api/search/advanced?identityprofileid=W4HVBF32601&source=MTA3MzQ0MQ",
+            "http://proxy.library.nyu.edu/login?url=https://oversea.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=zwjl"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://advance.lexis.com/api/search/advanced?source=MTA3MzQ0MQ&identityprofileid=W4HVBF32601",
-               "http://proxy.library.nyu.edu/login?url=https://oversea.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=zwjl"
-            ]
+            "getit": []
          }
       }
    },
@@ -438,18 +374,14 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | \\u8d39\\u5c14\\u9a6c\\u5c0f\\u5b9a\\u7406\\u5e94\\u7528\\u4e3e\\u4f8b Examples of Applying Fermat's Little Theorem | \\u82d1\\u91d1\\u81e3 2020 Jan 01 | Published in Journal u9ad8\\u7b49\\u6570\\u5b66\\u7814\\u7a76 Studies in College Mathematics Volume 23 Issue 1 Page 49. | ISSN:1008-1399"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://oversea.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=xusj"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://oversea.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=xusj"
-            ]
+            "getit": []
          }
       }
    },
@@ -458,19 +390,14 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | \\u4f26\\u7406\\u5b66\\u89c6\\u57df\\u4e0b\\u518d\\u5a5a\\u5bb6\\u5ead\\u5b50\\u5973\\u5bb6\\u5ead\\u6559\\u80b2\\u4e2d\\u5b58\\u5728\\u7684\\u95ee\\u9898\\u53ca\\u5bf9\\u7b56\\u7814\\u7a76 | \\u5218\\u6625\\u6653 2017 Jan 01 | Published in Journal u6cd5\\u5236\\u4e0e\\u793e\\u4f1a Legal System and Society Issue 15 Page 238. | ISSN:1009-0592"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://oversea.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=fzsl"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "http://proxy.library.nyu.edu/login?url=http://wanfangdata.com.cn/search/searchList.do?searchType=perio&searchWord=%22%5Cu4f26%5Cu7406%5Cu5b66%5Cu89c6%5Cu57df%5Cu4e0b%5Cu518d%5Cu5a5a%5Cu5bb6%5Cu5ead%5Cu5b50%5Cu5973%5Cu5bb6%5Cu5ead%5Cu6559%5Cu80b2%5Cu4e2d%5Cu5b58%5Cu5728%5Cu7684%5Cu95ee%5Cu9898%5Cu53ca%5Cu5bf9%5Cu7b56%5Cu7814%5Cu7a76%22&pageSize=&showType=",
-               "http://proxy.library.nyu.edu/login?url=https://oversea.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=fzsl"
-            ]
+            "getit": []
          }
       }
    },
@@ -479,19 +406,14 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | \\u666e\\u5229\\u7b56\\u5956\\u6444\\u5f71\\u4f5c\\u54c1\\u4e2d\\u79cd\\u65cf\\u6b67\\u89c6\\u8c61\\u5f81\\u624b\\u6cd5\\u7684\\u6210\\u529f\\u8fd0\\u7528 | \\u674e\\u5fd7\\u98de 2008 Jan 01 | Published in Journal u7406\\u8bba\\u89c2\\u5bdf THEORETIC OBSERVATION Issue 4 Page 142. | ISSN:1009-2234"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://oversea.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=llgc"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "http://proxy.library.nyu.edu/login?url=http://wanfangdata.com.cn/search/searchList.do?searchWord=%22%5Cu666e%5Cu5229%5Cu7b56%5Cu5956%5Cu6444%5Cu5f71%5Cu4f5c%5Cu54c1%5Cu4e2d%5Cu79cd%5Cu65cf%5Cu6b67%5Cu89c6%5Cu8c61%5Cu5f81%5Cu624b%5Cu6cd5%5Cu7684%5Cu6210%5Cu529f%5Cu8fd0%5Cu7528%22&searchType=perio&pageSize=&showType=",
-               "http://proxy.library.nyu.edu/login?url=https://oversea.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=llgc"
-            ]
+            "getit": []
          }
       }
    },
@@ -500,18 +422,14 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Mountains of madness A scientist's odyssey in antarctica | Long J 2001 Jan 01 | Published in Journal Palaeontologia Electronica Volume 4 Issue 2 Page XVIII. | ISSN:1094-8074"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "https://palaeo-electronica.org/content/"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "https://palaeo-electronica.org/content/"
-            ]
+            "getit": []
          }
       }
    },
@@ -520,18 +438,14 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Artificial Snowmaking Winter Sports Between State-Owned Company Policy and Tourist Demand. | Joksimoviu0107 Marko 2021 Sep 01 | Published in Journal Journal of Hospitality Volume 45 Issue 7 Page 1170. | ISSN:1096-3480"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://journals.sagepub.com/openurl?rft.atitle=Artificial+Snowmaking%3A+Winter+Sports+Between+State-Owned+Company+Policy+and+Tourist+Demand.&rft.date=2021&rft.genre=article&rft.issn=1096-3480&rft.issue=7&rft.spage=1170&rft.volume=45&url_ver=Z39.88-2004"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://journals.sagepub.com/openurl?url_ver=Z39.88-2004&rft.issue=7&rft.date=2021&rft.spage=1170&rft.volume=45&rft.genre=article&rft.atitle=Artificial+Snowmaking%3A+Winter+Sports+Between+State-Owned+Company+Policy+and+Tourist+Demand.&rft.issn=1096-3480"
-            ]
+            "getit": []
          }
       }
    },
@@ -540,21 +454,17 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Late-life depression issues for the general practitioner | Van Damme A 2018 Mar 01 | Published in Journal International Journal of General Medicine Volume ume 11 Page 113. | ISSN:1178-7074"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://find.gale.com/openurl/openurl?ctx_enc=info%3Aofi%3Aenc%3AUTF-8&req_dat=info%3Asid%2Fgale%3Augnid%3Anysl_me_newyorku&res_id=info%3Asid%2Fgale%3AHRCA&rft.atitle=Late-life+depression+issues+for+the+general+practitioner&rft.date=2018&rft.issn=1178-7074&rft.jtitle=INTERNATIONAL+JOURNAL+OF+GENERAL+MEDICINE&rft.spage=113&rft.volume=ume+11&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&url_ctx_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Actx&url_ver=Z39.88-2004",
+            "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?date=2018-03-01&genre=article&issn=1178-7074&jtitle=INTERNATIONAL%2BJOURNAL%2BOF%2BGENERAL%2BMEDICINE&res_dat=xri%3Apqm&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&spage=113&url_ver=Z39.88-2004&volume=ume+11",
+            "https://www.dovepress.com/international-journal-of-general-medicine-journal",
+            "https://www.ncbi.nlm.nih.gov/pmc/journals/1187"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://find.gale.com/openurl/openurl?rft.issn=1178-7074&rft.atitle=Late-life+depression+issues+for+the+general+practitioner&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&ctx_enc=info%3Aofi%3Aenc%3AUTF-8&rft.spage=113&url_ctx_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Actx&rft.volume=ume+11&res_id=info%3Asid%2Fgale%3AHRCA&rft.jtitle=INTERNATIONAL+JOURNAL+OF+GENERAL+MEDICINE&url_ver=Z39.88-2004&req_dat=info%3Asid%2Fgale%3Augnid%3Anysl_me_newyorku&rft.date=2018",
-               "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?volume=ume+11&res_dat=xri%3Apqm&spage=113&jtitle=INTERNATIONAL%2BJOURNAL%2BOF%2BGENERAL%2BMEDICINE&date=2018-03-01&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&url_ver=Z39.88-2004&genre=article&issn=1178-7074",
-               "https://www.dovepress.com/international-journal-of-general-medicine-journal",
-               "https://www.ncbi.nlm.nih.gov/pmc/journals/1187"
-            ]
+            "getit": []
          }
       }
    },
@@ -563,18 +473,14 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | The Creative Process of Designing Today\\u2019s Movie Soundtracks | Thom R 2020 Jun 01 | Published in Journal SMPTE Motion Imaging Journal Motion Imaging Journal SMPTE SMPTE Mot Imag J Volume 129 Issue 5 Page 17. | ISSN:1545-0279"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://ieeexplore.ieee.org/search/searchresult.jsp?searchWithin=%22Publication+Number%22%3A7261654&searchWithin=%22Volume%22%3A129&searchWithin=%22Issue%22%3A5&searchWithin=%22Start+Page%22%3A17"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://ieeexplore.ieee.org/search/searchresult.jsp?searchWithin=%22Publication%20Number%22:7261654&searchWithin=%22Volume%22:129&searchWithin=%22Issue%22:5&searchWithin=%22Start%20Page%22:17"
-            ]
+            "getit": []
          }
       }
    },
@@ -583,18 +489,14 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | The ethnography of nostalgia. | Quayson Ato 2005 Nov 01 | Published in Journal Journal of Postcolonial Writing Volume 41 Issue 2 Page 131. | ISSN:1744-9855"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://www.tandfonline.com/openurl?date=2005&genre=article&issn=1744-9855&issue=2&spage=131&volume=41"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://www.tandfonline.com/openurl?spage=131&volume=41&issue=2&date=2005&genre=article&issn=1744-9855"
-            ]
+            "getit": []
          }
       }
    },
@@ -603,19 +505,15 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Moral Self-Licensing When Being Good Frees Us to Be Bad | Merritt A C 2010 Jan 01 | Published in Journal SOCIAL AND PERSONALITY PSYCHOLOGY COMPASS Volume 4 Issue 5 Page 344. | ISSN:1751-9004"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://onlinelibrary.wiley.com/resolve/openurl?atitle=Moral+Self-Licensing&date=2010&genre=article&issn=1751-9004&issue=5&sid=vendor%3Adatabase&spage=344&volume=4",
+            "http://proxy.library.nyu.edu/login?url=https://onlinelibrary.wiley.com/resolve/openurl?atitle=Moral+Self-Licensing&date=2010&genre=article&issn=1751-9004&issue=5&sid=vendor%3Adatabase&spage=344&volume=4"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://onlinelibrary.wiley.com/resolve/openurl?atitle=Moral+Self-Licensing&issn=1751-9004&genre=article&issue=5&volume=4&spage=344&sid=vendor%3Adatabase&date=2010",
-               "http://proxy.library.nyu.edu/login?url=https://onlinelibrary.wiley.com/resolve/openurl?issn=1751-9004&genre=article&atitle=Moral+Self-Licensing&date=2010&sid=vendor%3Adatabase&spage=344&issue=5&volume=4"
-            ]
+            "getit": []
          }
       }
    },
@@ -624,18 +522,14 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Dental Forensic Kit DFK\\u00ae and Quick Extract\\u2122 FFPE DNA extraction kit a new workflow for obtaining dental DNA for human genetic identity. | Inostroza Carolina 2020 Jul 01 | Published in Journal Journal of Forensic Volume 73. | ISSN:1752-928X"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://www.sciencedirect.com/science/journal/1752928X/73"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://www.sciencedirect.com/science/journal/1752928X/73"
-            ]
+            "getit": []
          }
       }
    },
@@ -644,11 +538,7 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Comparison of cohort characteristics in Central Africa International Epidemiology Databases to Evaluate AIDS and Demographic Health Surveys Rwanda and Burundi. | Mageras A 2021 May 01 | Published in Journal International journal of STD Volume 32 Issue 6 Page 551. | ISSN:0956-4624"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
@@ -662,18 +552,14 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Young women's body image following upwards comparison to Instagram models The role of physical appearance perfectionism and cognitive emotion regulation. | McComb SE 2021 Sep 01 | Published in Journal Body image Volume 38 Page 49. | ISSN:1740-1445"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://www.sciencedirect.com/science?_method=citationSearch&_ob=GatewayURL&_origin=SFX&_version=1&_volkey=17401445%2338%2349&md5=797d77b5f7ca827801e7b57bfb0f0a1e"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://www.sciencedirect.com/search?docId=17401445&volume=38&page=49"
-            ]
+            "getit": []
          }
       }
    },
@@ -682,18 +568,14 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | The role of social connectedness in buffering the effects of discrimination on post-trauma cognitions in forcibly displaced Muslims. | Sheikh Ifrah S 2022 Jan 01 | Published in Journal Psychological Trauma Theory Research Practice Volume 14 Issue 1 Page 47. | ISSN:1942-9681"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=http://psycnet.apa.org/journals/tra/14/1/47"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "http://proxy.library.nyu.edu/login?url=http://psycnet.apa.org/journals/tra/14/1/47"
-            ]
+            "getit": []
          }
       }
    },
@@ -702,18 +584,14 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Can community task groups learn from the principles of group therapy? | Zanbar L 2018 Oct 20 | Published in Journal Community Development Volume 49 Issue 5 Page 574. | ISSN:1557-5330"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://www.tandfonline.com/openurl?date=2018&genre=article&issn=1557-5330&issue=5&spage=574&volume=49"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://www.tandfonline.com/openurl?genre=article&issn=1557-5330&date=2018&issue=5&volume=49&spage=574"
-            ]
+            "getit": []
          }
       }
    },
@@ -722,20 +600,16 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Transitioning to online learning during the COVID-19 pandemic differences in access and participation among students in disadvantaged school districts | Amy J Catalano 2021 Mar 16 | Published in Journal The International Journal of Information and Learning Technology Volume 38 Issue 2 Page 258. | ISSN:2056-4880"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?date=2021-03-16&genre=article&issn=2056-4880&issue=2&jtitle=The%2BInternational%2BJournal%2Bof%2BInformation%2Band%2BLearning%2BTechnology&res_dat=xri%3Apqm&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&spage=258&url_ver=Z39.88-2004&volume=38",
+            "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?date=2021-03-16&genre=article&issn=2056-4880&issue=2&jtitle=The%2BInternational%2BJournal%2Bof%2BInformation%2Band%2BLearning%2BTechnology&res_dat=xri%3Apqm&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&spage=258&url_ver=Z39.88-2004&volume=38",
+            "http://proxy.library.nyu.edu/login?url=https://www.emerald.com/insight/publication/issn/2056-4880/vol/38/iss/2"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&genre=article&url_ver=Z39.88-2004&issn=2056-4880&res_dat=xri%3Apqm&spage=258&issue=2&volume=38&date=2021-03-16&jtitle=The%2BInternational%2BJournal%2Bof%2BInformation%2Band%2BLearning%2BTechnology",
-               "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?volume=38&issue=2&spage=258&res_dat=xri%3Apqm&jtitle=The%2BInternational%2BJournal%2Bof%2BInformation%2Band%2BLearning%2BTechnology&date=2021-03-16&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&issn=2056-4880&url_ver=Z39.88-2004&genre=article",
-               "http://proxy.library.nyu.edu/login?url=https://www.emerald.com/insight/publication/issn/2056-4880/vol/38/iss/2"
-            ]
+            "getit": []
          }
       }
    },
@@ -744,18 +618,14 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | THE INFLUENCE OF CELEBRITY ENDORSEMENT ON PURCHASE INTENTION OF WARDAH LIPSTICK PRODUCTS THROUGH BRAND IMAGE AND BRAND CREDIBILITY | Sandi P.R 2019 Jun 01 | Published in Journal Russian Journal of Agricultural and Socio-Economic Sciences Volume 90 Issue 6 Page 302. | ISSN:2226-1184"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://www.rjoas.com/"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "http://www.rjoas.com/"
-            ]
+            "getit": []
          }
       }
    },
@@ -764,19 +634,15 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Training Graduate Students in Multiple Genres of Public and Academic Science Writing An Assessment Using an Adaptable Interdisciplinary Rubric | Harrington Erin R 2021 Dec 06 | Published in Journal FRONTIERS IN ENVIRONMENTAL SCIENCE Volume 9 Page 715409. | ISSN:2296-665X"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?date=2021-12-06&genre=article&issn=2296-665X&jtitle=FRONTIERS%2BIN%2BENVIRONMENTAL%2BSCIENCE&res_dat=xri%3Apqm&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&spage=715409&url_ver=Z39.88-2004&volume=9",
+            "http://www.frontiersin.org/environmental_science"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?res_dat=xri%3Apqm&spage=715409&volume=9&date=2021-12-06&jtitle=FRONTIERS%2BIN%2BENVIRONMENTAL%2BSCIENCE&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&genre=article&url_ver=Z39.88-2004&issn=2296-665X",
-               "http://www.frontiersin.org/environmental_science"
-            ]
+            "getit": []
          }
       }
    },
@@ -785,11 +651,7 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Dijon Mustard Market Companies and Competitive Landscape Market Players Maille(Unilever Reine de Dijon Charbonneaux Brabant S.A 2 022 2027 By HNY Research | 2022 Apr 26 | Published in Journal Herald Keeper UK  | "
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
@@ -803,11 +665,7 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | 5 Questions Artist Ellen Skidmore finds her voice | Rich Copley 2016 Mar 09 | Published in Journal Lexington Herald-Leader Blogs KY  | "
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
@@ -821,11 +679,7 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | KAEPERNICK IS A GOOD ROLE MODEL | 2012 Dec 05 | Published in Journal Modesto Bee The CA  | "
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
@@ -839,11 +693,7 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | HEALTH CARE Medicaid deal hailed elsewhere | PHILIP MARCELO 2011 May 16 | Published in Journal Providence Journal RI  | "
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
@@ -857,11 +707,7 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | On Arid Lands in Ethiopia A\\u00efda Muluneh's exhibition responds to the global water crisis | Georgia Beeston 2019 Oct 15 | Published in Journal New Arab The UK  | "
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
@@ -875,11 +721,7 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Most should Like theater verison of 1959 movie classic | 2002 Nov 29 | Published in Journal Observer-Reporter Washington PA  | "
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
@@ -893,11 +735,7 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | [Letter referring to phallic art in the Balearic Islands] | Adam Matthew Digital Firm digitiser 1980 Jan 01 |  | "
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
@@ -911,11 +749,7 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | The recruitment and retention of teachers in rural areas of Guizhou China | Peng Yang 2015 Jan 01 |  | "
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
@@ -929,11 +763,7 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Attachment Theory | Henry Amy 2020 Jan 01 | Published in Journal The SAGE Encyclopedia of Children and Childhood Studies. | ISBN:9781529721829"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
@@ -947,11 +777,7 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Book Chapter | Michael O'Reilly | 2005 Jun 06 |  | "
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
@@ -965,11 +791,7 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Book Chapter | Learning to Arbitrate Human and Robot Control using Disagreement between Sub-Policies | Oh Yoojin 2021 Aug 24 |  | "
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
@@ -983,11 +805,7 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Book Chapter | Afro-Cuban music A bibliographic guide | Gray John 2012 Jan 01 | Published in Book Afro-Cuban music a bibliographic guide John Gray  | Publisher:African Diaspora Press ISBN:0984413421"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
@@ -1001,11 +819,7 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Book Chapter | Narrative jewelry tales from the toolbox | Fenn Mark 2017 Jan 01 | Published in Book Narrative jewelry tales from the toolbox. | Publisher:Schiffer Publishing ISBN:9780764354144"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
@@ -1118,7 +932,7 @@
          "common": [],
          "unique": {
             "ariadne": [
-               "http://proxy.library.nyu.edu/login?url=https://www.sciencedirect.com/search?docId=01918869&page=243&volume=101"
+               "http://proxy.library.nyu.edu/login?url=https://www.sciencedirect.com/science?_method=citationSearch&_ob=GatewayURL&_origin=SFX&_version=1&_volkey=01918869%23101%23243&md5=7c9163bd4a6a7282a054a75e94dd3ea4"
             ],
             "getit": [
                "http://proxy.library.nyu.edu/login?url=https://www.sciencedirect.com/science/article/pii/S019188691630753X"
@@ -1151,15 +965,13 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Studies on pyridazines XXVI The reaction of substituted N-acetyliminopyridazinium ylides with benzyne | Hasegawa Hiroshi 1977 | Published in Journal Chemical Volume 25 Issue 1 Page 192 195. | ISSN:0009-2363"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
-            "ariadne": [],
+            "ariadne": [
+               "http://japanlinkcenter.org/openurl?rft.spage=192&rft.issn=0009-2363&rft.issue=1&rft.volume=25&rft.eissn=1347-5223"
+            ],
             "getit": [
                "http://dx.doi.org/10.1248/cpb.25.192?nosfx=y"
             ]
@@ -1171,15 +983,13 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Synthesis of cyclopropane containing natural products | Donaldson W A 2001 | Published in Journal Tetrahedron Volume 57 Issue 41 Page 8589 8627. | ISSN:0040-4020"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
-            "ariadne": [],
+            "ariadne": [
+               "http://proxy.library.nyu.edu/login?url=https://www.sciencedirect.com/science?_method=citationSearch&_ob=GatewayURL&_origin=SFX&_version=1&_volkey=00404020%2357%238589%2341&md5=27e312d57f8675cae30847aa5f4c23af"
+            ],
             "getit": [
                "http://proxy.library.nyu.edu/login?url=https://www.sciencedirect.com/science/article/pii/S0040402001007773"
             ]
@@ -1191,15 +1001,13 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Synthesis of a novel naphthalenone endoperoxide and structural elucidation by NMR spectroscopy and theoretical calculation | Martins Lucas M O S 2021 | Published in Journal Magnetic Resonance in Chemistry Volume 60 Issue 1 Page 0 0. | ISSN:0749-1581"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
-            "ariadne": [],
+            "ariadne": [
+               "http://proxy.library.nyu.edu/login?url=https://analyticalsciencejournals.onlinelibrary.wiley.com/loi/1097458xa"
+            ],
             "getit": [
                "http://proxy.library.nyu.edu/login?url=https://onlinelibrary.wiley.com/doi/full/10.1002/mrc.5195"
             ]
@@ -1211,15 +1019,13 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Nanometric cutting of copper A molecular dynamics study | Pei Q X 2006 | Published in Journal Computational Materials Science Volume 37 Issue 4 Page 434 441. | ISSN:0927-0256"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
-            "ariadne": [],
+            "ariadne": [
+               "http://proxy.library.nyu.edu/login?url=https://www.sciencedirect.com/science?_method=citationSearch&_ob=GatewayURL&_origin=SFX&_version=1&_volkey=09270256%2337%23434%234&md5=e7729417f688c92ab2c668533eb34d57"
+            ],
             "getit": [
                "http://proxy.library.nyu.edu/login?url=https://www.sciencedirect.com/science/article/pii/S0927025605003289"
             ]
@@ -1231,19 +1037,20 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Re-evaluating the lejour technique for breast reduction in patients with macromastia | Copeland Halperin Libby R 2018 | Published in Journal Plastic and Reconstructive Surgery Global Open Volume 6 Issue 5 Page e1783. | ISSN:2169-7574"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://journals.lww.com/prsgo/pages/default.aspx"
+         ],
          "unique": {
-            "ariadne": [],
+            "ariadne": [
+               "http://proxy.library.nyu.edu/login?url=https://ovidsp.ovid.com/ovidweb.cgi?AN=01720096-000000000-00000&D=ovft&MODE=ovid&NEWS=N&PAGE=toc&T=JS&checkipval=yes",
+               "http://www.prsgo.com/",
+               "https://www.ncbi.nlm.nih.gov/pmc/ivip/2169-7574/6/5/"
+            ],
             "getit": [
                "http://dx.doi.org/10.1097/GOX.0000000000001783?nosfx=y",
-               "http://proxy.library.nyu.edu/login?url=http://journals.lww.com/prsgo/pages/default.aspx",
-               "http://proxy.library.nyu.edu/login?url=https://ovidsp.ovid.com/ovidweb.cgi?PAGE=fulltext&SEARCH=%222169-7574%22.is+and+%226%22.vo+and+%225%22.ip+and+%22e1783%22.pg+or+%2210.1097%2FGOX.0000000000001783%22.di&NEWS=N&T=JS&checkipval=yes&CSC=Y&MODE=ovid&D=ovft",
+               "http://proxy.library.nyu.edu/login?url=https://ovidsp.ovid.com/ovidweb.cgi?CSC=Y&D=ovft&MODE=ovid&NEWS=N&PAGE=fulltext&SEARCH=%222169-7574%22.is+and+%226%22.vo+and+%225%22.ip+and+%22e1783%22.pg+or+%2210.1097%2FGOX.0000000000001783%22.di&T=JS&checkipval=yes",
                "https://www.ncbi.nlm.nih.gov/pmc/ivip/2169-7574/6/5/e1783"
             ]
          }
@@ -1282,11 +1089,7 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Remission response and its prediction after dialectical-behavioral therapy for borderline personality disorder in an inpatient setting. | Kroger 2013 | Published in Journal Zeitschrift fur Klinische Psychologie und Psychotherapie Forschung und Praxis Volume 42 Issue 1 Page 45 54. | ISSN:1616-3443"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
@@ -1298,13 +1101,9 @@
    "getit.library.nyu.edu/resolve?sid=google&auinit=AL&aulast=Proskovec&atitle=Magnetoencephalography+and+Mild+Traumatic+Brain+Injury&id=doi:10.1016/j.yacr.2020.05.004": {
       "citation": {
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
-         "getit": "Article | Magnetoencephalography and Mild Traumatic Brain Injury | Proskovec 2020 Sep | Published in Journal Advances in Clinical Radiology Volume 2 Page 341 350. | ISSN:2589-8701"
+         "getit": "Article | Magnetoencephalography and Mild Traumatic Brain Injury | Proskovec 2020 | Published in Journal Advances in Clinical Radiology Volume 2 Page 341 350. | ISSN:2589-8701"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
@@ -1320,15 +1119,14 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Pros and cons of a wandering mind a prospective study | Ottaviani 2013 | Published in Journal Frontiers in Psychology Volume 4 Page 524. | ISSN:1664-1078"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
-            "ariadne": [],
+            "ariadne": [
+               "http://frontiersin.org/psychology",
+               "https://www.ncbi.nlm.nih.gov/pmc/ivip/1664-1078"
+            ],
             "getit": [
                "http://dx.doi.org/10.3389/fpsyg.2013.00524?nosfx=y",
                "https://www.ncbi.nlm.nih.gov/pmc/articles/doi/10.3389/fpsyg.2013.00524"
@@ -1341,15 +1139,13 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Systematic review of international guidelines for tracheostomy in COVID-19 patients | Chiesa-Estomba 2020 | Published in Journal Oral oncology Supplement Volume 108 Page 104844. | ISSN:1368-8375"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
-            "ariadne": [],
+            "ariadne": [
+               "http://proxy.library.nyu.edu/login?url=https://www.sciencedirect.com/science?_method=citationSearch&_ob=GatewayURL&_origin=SFX&_version=1&_volkey=13688375%23108%23104844&md5=716256049705bb12e051ca95b51adf77"
+            ],
             "getit": [
                "http://proxy.library.nyu.edu/login?url=https://www.sciencedirect.com/science/article/pii/S1368837520302803"
             ]
@@ -1361,15 +1157,13 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Eating disorder indices and athletes An integration | Hausenblas 1999 | Published in Journal Journal of Sport Volume 21 Issue 3 Page 230 258. | ISSN:0895-2779"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
-            "ariadne": [],
+            "ariadne": [
+               "http://proxy.library.nyu.edu/login?url=https://journals.humankinetics.com/toc/jsep/21/3"
+            ],
             "getit": [
                "http://proxy.library.nyu.edu/login?url=https://journals.humankinetics.com/doi/abs/10.1123/jsep.21.3.230"
             ]
@@ -1381,15 +1175,13 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | A revised death anxiety scale | Thorson 1992 | Published in Journal Death Studies Volume 16 Issue 6 Page 507 521. | ISSN:0748-1187"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
-            "ariadne": [],
+            "ariadne": [
+               "http://proxy.library.nyu.edu/login?url=https://www.tandfonline.com/openurl?date=1992&genre=article&issn=0748-1187&issue=6&spage=507&volume=16"
+            ],
             "getit": [
                "http://proxy.library.nyu.edu/login?url=https://www.tandfonline.com/doi/abs/10.1080/07481189208252595"
             ]
@@ -1401,15 +1193,13 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | The impact of trauma work on trauma workers A metasynthesis on vicarious trauma and vicarious posttraumatic growth. | Cohen 2013 | Published in Journal Psychological Trauma Theory Research Practice and Policy Volume 5 Issue 6 Page 570 580. | ISSN:1942-9681"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
-            "ariadne": [],
+            "ariadne": [
+               "http://proxy.library.nyu.edu/login?url=http://psycnet.apa.org/journals/tra/5/6/570"
+            ],
             "getit": [
                "http://proxy.library.nyu.edu/login?url=http://doi.apa.org/getdoi.cfm?doi=10.1037%2Fa0030388"
             ]
@@ -1421,18 +1211,18 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Developing the research basis for controlling bias in hiring | Bendick Jr M 2013 | Published in Journal Journal of Social Issues Volume 68 Page 238. | ISSN:0022-4537"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://spssi.onlinelibrary.wiley.com/loi/15404560"
+         ],
          "unique": {
-            "ariadne": [],
+            "ariadne": [
+               "http://proxy.library.nyu.edu/login?url=https://search.ebscohost.com/login.aspx?bquery=%28SO+%28JOURNAL+OF+SOCIAL+ISSUES%29%29AND%28DT+2013%29AND%28TI+developing+the+research+basis+for+controlling+bias+in+hiring%29&db=a9h&direct=true&sid=Primo&site=ehost-live&type=1",
+               "http://proxy.library.nyu.edu/login?url=https://search.ebscohost.com/login.aspx?bquery=%28SO+%28JOURNAL+OF+SOCIAL+ISSUES%29%29AND%28DT+2013%29AND%28TI+developing+the+research+basis+for+controlling+bias+in+hiring%29&db=sih&direct=true&sid=Primo&site=ehost-live&type=1"
+            ],
             "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://openurl.ebsco.com/linksvc/linking.aspx?date=2013&sid=Primo&spage=238&volume=68&genre=article&issn=0022-4537&title=JOURNAL+OF+SOCIAL+ISSUES&atitle=developing+the+research+basis+for+controlling+bias+in+hiring",
-               "http://proxy.library.nyu.edu/login?url=https://spssi.onlinelibrary.wiley.com/loi/15404560"
+               "http://proxy.library.nyu.edu/login?url=https://openurl.ebsco.com/linksvc/linking.aspx?atitle=developing+the+research+basis+for+controlling+bias+in+hiring&date=2013&genre=article&issn=0022-4537&sid=Primo&spage=238&title=JOURNAL+OF+SOCIAL+ISSUES&volume=68"
             ]
          }
       }
@@ -1442,15 +1232,13 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Longitudinal cognitive changes in young individuals at ultrahigh risk for psychosis | Lam 2018 | Published in Journal JAMA Psychiatry Volume 75 Issue 9 Page 929. | ISSN:2168-622X"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
-            "ariadne": [],
+            "ariadne": [
+               "http://proxy.library.nyu.edu/login?url=https://jamanetwork.com/journals/jamapsychiatry/fullarticle/75/9/929"
+            ],
             "getit": [
                "http://proxy.library.nyu.edu/login?url=https://jamanetwork.com/journals/jamapsychiatry/fullarticle/10.1001/jamapsychiatry.2018.1668"
             ]
@@ -1462,15 +1250,13 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Impact of COVID-19 on the travel and tourism industry | \\u0160kare 2021 | Published in Journal Technological forecasting Volume 163 Page 120469. | ISSN:0040-1625"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
-            "ariadne": [],
+            "ariadne": [
+               "http://proxy.library.nyu.edu/login?url=https://www.sciencedirect.com/science?_method=citationSearch&_ob=GatewayURL&_origin=SFX&_version=1&_volkey=00401625%23163%23120469&md5=dacecc78ac9d25bd8a96197bfb689ab9"
+            ],
             "getit": [
                "http://proxy.library.nyu.edu/login?url=https://www.sciencedirect.com/science/article/pii/S0040162520312956"
             ]
@@ -1482,19 +1268,15 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Remote Work Revolution Succeeding from Anywhere | Vo Q 2021 | Published in Journal Journal of Business Studies Quarterly Volume 10 Issue 4 Page 11. | ISSN:2152-1034"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://jbsq.org/",
+            "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?date=2021&genre=article&issn=2152-1034&issue=4&jtitle=Journal%2Bof%2BBusiness%2BStudies%2BQuarterly&res_dat=xri%3Apqm&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&spage=11&url_ver=Z39.88-2004&volume=10"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "http://jbsq.org/",
-               "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&genre=article&url_ver=Z39.88-2004&issn=2152-1034&res_dat=xri%3Apqm&spage=11&issue=4&volume=10&date=2021&jtitle=Journal%2Bof%2BBusiness%2BStudies%2BQuarterly"
-            ]
+            "getit": []
          }
       }
    },
@@ -1503,18 +1285,14 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | The Aphoristic Way Lev Tolstoy\\u2019s Translations of the em>Dao de Jing em> | 2021 Jan 01 | Published in Journal Comparative Literature Studies Volume 58 Issue 1 Page 146 175. | ISSN:0010-4132"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://muse.jhu.edu/cgi-bin/resolve_openurl.cgi?atitle=The+Aphoristic+Way%3A+Lev+Tolstoy%5Cu2019s+Translations+of+the+%3Cem%3EDao+de+Jing%3C%2Fem%3E&date=2021&eissn=1528-4212&epage=175&genre=&issn=0010-4132&issue=1&spage=146&volume=58"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://muse.jhu.edu/cgi-bin/resolve_openurl.cgi?genre=&eissn=1528-4212&issn=0010-4132&volume=58&issue=1&spage=146&epage=175&date=2021&atitle=The%20Aphoristic%20Way:%20Lev%20Tolstoy%5Cu2019s%20Translations%20of%20the%20%3Cem%3EDao%20de%20Jing%3C/em%3E"
-            ]
+            "getit": []
          }
       }
    },
@@ -1523,20 +1301,16 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Coercion survival and war Why weak states resist the United States | Leogrande William M 2016 | Published in Journal Perspectives on Politics American Political Science Association Volume 14 Issue 2 Page 602 603. | ISSN:1537-5927"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?date=2016&genre=article&issn=1537-5927&issue=2&jtitle=PERSPECTIVES%2BON%2BPOLITICS&res_dat=xri%3Apqm&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&spage=602&url_ver=Z39.88-2004&volume=14",
+            "http://proxy.library.nyu.edu/login?url=https://www.cambridge.org/core/product/34496D0437DEA81D55F7EC7F2AC35018",
+            "http://proxy.library.nyu.edu/login?url=https://www.jstor.org/openurl?au=Leogrande%2C+William+M&date=2016&issn=15375927&issue=2&sid=primo&spage=602&volume=14"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?res_dat=xri%3Apqm&spage=602&issue=2&volume=14&date=2016&jtitle=PERSPECTIVES%2BON%2BPOLITICS&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&issn=1537-5927&url_ver=Z39.88-2004&genre=article",
-               "http://proxy.library.nyu.edu/login?url=https://www.cambridge.org/core/product/34496D0437DEA81D55F7EC7F2AC35018",
-               "http://proxy.library.nyu.edu/login?url=https://www.jstor.org/openurl?sid=primo&issn=15375927&au=Leogrande%2C+William+M&date=2016&volume=14&issue=2&spage=602"
-            ]
+            "getit": []
          }
       }
    },
@@ -1632,11 +1406,7 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Journal | South Asian journal |  | ISSN:1729-6242 | undefined"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
@@ -1652,20 +1422,16 @@
    "getit.library.nyu.edu/resolve?umlaut.referent_id=18793671&url_ver=Z39.88-2004&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&ctx_ver=Z39.88-2004&ctx_tim=2022-01-21T00:41:28-05:00&ctx_id=&ctx_enc=info:ofi/enc:UTF-8&rft.jtitle=Journal+for+Islamic+Studies&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rfr_id=info:sid/umlaut.code4lib.org:opensearch": {
       "citation": {
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
-         "getit": "Journal | Al-Afkar |  | ISSN:2614-4883 | undefined"
+         "getit": "Journal | Journal for Islamic studies |  | ISSN:0257-7062 | undefined"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
             "ariadne": [],
             "getit": [
                "http://al-afkar.com/index.php/Afkar_Journal/index",
-               "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?res_dat=xri%3Apqm&rfr_id=info%3Axri%2Fsid%3Aprimo&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft_id=436364&url_ver=Z39.88-2004&genre=journal",
+               "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?rft_id=436364&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&genre=journal&res_dat=xri%3Apqm&rfr_id=info%3Axri%2Fsid%3Aprimo&url_ver=Z39.88-2004",
                "https://dds.crl.edu/crldelivery/24260",
                "https://dds.crl.edu/crldelivery/24260"
             ]
@@ -1774,11 +1540,7 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Book | Ottoman silk furnishing fabrics in the Doris Duke Foundation for Islamic Art fashion and production 1600-1750 | Phillips Amanda 2012 Jan 01 | Published in Book Page 31. | "
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
@@ -1792,15 +1554,13 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | The Standard American Diet and Its Relationship to the Health Status of Americans | Grotto David 2010 Dec 01 | Published in Journal Nutrition in clinical practice Volume 25 Issue 6 Page 603 612. | ISSN:0884-5336"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
-            "ariadne": [],
+            "ariadne": [
+               "http://proxy.library.nyu.edu/login?url=https://onlinelibrary.wiley.com/resolve/openurl?atitle=The+Standard+American+Diet+and+Its+Relationship+to+the+Health+Status+of+Americans&date=2010&genre=article&issn=0884-5336&issue=6&sid=vendor%3Adatabase&spage=603&volume=25"
+            ],
             "getit": [
                "http://proxy.library.nyu.edu/login?url=https://onlinelibrary.wiley.com/doi/full/10.1177/0884533610386234"
             ]
@@ -1812,11 +1572,7 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Harvard and Yale Too Much Affirmative Action or Too Little? | Maguire John 2020 Sep 01 | Published in Journal New England Journal of Higher Education. | ISSN:1938-5978"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
@@ -1830,19 +1586,22 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | The Evolving Roles of Faculty Learning Communities A University/High School Literacy Partnership | Jetton Tamara L 2008 Oct 01 | Published in Journal Theory Into Practice Volume 47 Issue 4 Page 327. | ISSN:0040-5841"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://openurl.ebsco.com/linksvc/linking.aspx?atitle=the+evolving+roles+of+faculty+learning+communities&date=20081001&genre=article&issn=0040-5841&issue=4&sid=Primo&spage=327&title=THEORY+INTO+PRACTICE&volume=47",
+            "http://proxy.library.nyu.edu/login?url=https://www.tandfonline.com/openurl?date=2008&genre=article&issn=0040-5841&issue=4&spage=327&volume=47"
+         ],
          "unique": {
-            "ariadne": [],
+            "ariadne": [
+               "http://proxy.library.nyu.edu/login?url=https://openurl.ebsco.com/linksvc/linking.aspx?atitle=the+evolving+roles+of+faculty+learning+communities&date=20081001&genre=article&issn=0040-5841&issue=4&sid=Primo&spage=327&title=THEORY+INTO+PRACTICE&volume=47",
+               "http://proxy.library.nyu.edu/login?url=https://openurl.ebsco.com/linksvc/linking.aspx?atitle=the+evolving+roles+of+faculty+learning+communities&date=20081001&genre=article&issn=0040-5841&issue=4&sid=Primo&spage=327&title=THEORY+INTO+PRACTICE&volume=47",
+               "http://proxy.library.nyu.edu/login?url=https://openurl.ebsco.com/linksvc/linking.aspx?atitle=the+evolving+roles+of+faculty+learning+communities&date=20081001&genre=article&issn=0040-5841&issue=4&sid=Primo&spage=327&title=THEORY+INTO+PRACTICE&volume=47",
+               "http://proxy.library.nyu.edu/login?url=https://openurl.ebsco.com/linksvc/linking.aspx?atitle=the+evolving+roles+of+faculty+learning+communities&date=20081001&genre=article&issn=0040-5841&issue=4&sid=Primo&spage=327&title=THEORY+INTO+PRACTICE&volume=47",
+               "http://proxy.library.nyu.edu/login?url=https://www.jstor.org/openurl?date=2008&issn=00405841&issue=4&sid=primo&spage=327&volume=47"
+            ],
             "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://openurl.ebsco.com/linksvc/linking.aspx?spage=327&issue=4&volume=47&date=20081001&sid=Primo&title=THEORY+INTO+PRACTICE&atitle=the+evolving+roles+of+faculty+learning+communities&issn=0040-5841&genre=article",
-               "http://proxy.library.nyu.edu/login?url=https://www.jstor.org/openurl?date=2008&issn=00405841&au=Jetton%2C+Tamara+L&sid=primo&spage=327&volume=47&issue=4",
-               "http://proxy.library.nyu.edu/login?url=https://www.tandfonline.com/openurl?spage=327&issue=4&volume=47&date=2008&genre=article&issn=0040-5841"
+               "http://proxy.library.nyu.edu/login?url=https://www.jstor.org/openurl?au=Jetton%2C+Tamara+L&date=2008&issn=00405841&issue=4&sid=primo&spage=327&volume=47"
             ]
          }
       }
@@ -1852,20 +1611,16 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Article | Black Flesh Female Zakiyyah Iman Jackson's Becoming Human Matter and Meaning in an Antiblack World | Ferguson Kennan 2021 Oct 01 | Published in Journal Theory Volume 24 Issue 4 Page 1150. | ISSN:1092-311X"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?date=2021-10-01&genre=article&issn=1092-311X&issue=4&jtitle=Theory%2B%26%2BEvent&res_dat=xri%3Apqm&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&spage=1150&url_ver=Z39.88-2004&volume=24",
+            "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?date=2021-10-01&genre=article&issn=1092-311X&issue=4&jtitle=Theory%2B%26%2BEvent&res_dat=xri%3Apqm&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&spage=1150&url_ver=Z39.88-2004&volume=24",
+            "http://proxy.library.nyu.edu/login?url=https://muse.jhu.edu/cgi-bin/resolve_openurl.cgi?atitle=Black+Flesh+Female%3A+Zakiyyah+Iman+Jackson%27s+Becoming+Human%3A+Matter+and+Meaning+in+an+Antiblack+World&aufirst=Kennan&aulast=ferguson&date=2021&eissn=2572-6633&genre=&issn=1092-311X&issue=4&spage=1150&volume=24"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?res_dat=xri%3Apqm&spage=1150&issue=4&volume=24&date=2021-10-01&jtitle=Theory%2B%26%2BEvent&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&issn=1092-311X&url_ver=Z39.88-2004&genre=article",
-               "http://proxy.library.nyu.edu/login?url=https://gateway.proquest.com/openurl?volume=24&issue=4&res_dat=xri%3Apqm&spage=1150&jtitle=Theory%2B%26%2BEvent&date=2021-10-01&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle&genre=article&url_ver=Z39.88-2004&issn=1092-311X",
-               "http://proxy.library.nyu.edu/login?url=https://muse.jhu.edu/cgi-bin/resolve_openurl.cgi?genre=&eissn=2572-6633&issn=1092-311X&volume=24&issue=4&spage=1150&date=2021&aufirst=Kennan&aulast=ferguson&atitle=Black%20Flesh%20Female:%20Zakiyyah%20Iman%20Jackson's%20Becoming%20Human:%20Matter%20and%20Meaning%20in%20an%20Antiblack%20World"
-            ]
+            "getit": []
          }
       }
    },
@@ -1874,18 +1629,14 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "The design and setting of Inigo Jones's Queen's House 1616-40 | Higgott Gordon 2006 Dec 01 | Published in Court historian Volume 11 Issue 2 Page 135. | ISSN:1462-9712 | undefined"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
-         "common": [],
+         "common": [
+            "http://proxy.library.nyu.edu/login?url=https://www.tandfonline.com/openurl?date=2006&genre=article&issn=1462-9712&issue=2&spage=135&volume=11"
+         ],
          "unique": {
             "ariadne": [],
-            "getit": [
-               "http://proxy.library.nyu.edu/login?url=https://www.tandfonline.com/openurl?issue=2&volume=11&spage=135&genre=article&issn=1462-9712&date=2006"
-            ]
+            "getit": []
          }
       }
    },
@@ -1894,11 +1645,7 @@
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
          "getit": "Journal | The Journal of extra-corporeal technology |  | ISSN:0022-1058 | undefined"
       },
-      "errors": {
-         "ariadne": [
-            "The backend API returned an HTTP error response: 400 (Bad Request)"
-         ]
-      },
+      "errors": {},
       "links": {
          "common": [],
          "unique": {
@@ -1912,7 +1659,7 @@
    "getit.library.nyu.edu/resolve?url_ver=Z39.88-2004&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&ctx_ver=Z39.88-2004&ctx_tim=2021-07-12T18:36:57-04:00&ctx_id=&ctx_enc=info:ofi/enc:UTF-8&rft.genre=article&rft.isCitationLinker=Y&rft.doi=10.1016/j.cub.2021.05.011&rft_val_fmt=info:ofi/fmt:kev:mtx:article&rft_id=info:doi/10.1016/j.cub.2021.05.011&rfr_id=info:sid/primo.exlibrisgroup.com:primo4-article-cLinker": {
       "citation": {
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
-         "getit": "Article | Decision making Making sense of non-sensory neurons | Rodgers Chris C 2021 Jul | Published in Journal CURRENT BIOLOGY Volume 31 Issue 13 Page R845 R848. | ISSN:0960-9822"
+         "getit": "Article | Decision making Making sense of non-sensory neurons | Rodgers Chris C 2021 | Published in Journal CURRENT BIOLOGY Volume 31 Issue 13 Page R845 R848. | ISSN:0960-9822"
       },
       "errors": {},
       "links": {
@@ -1928,7 +1675,7 @@
    "getit.library.nyu.edu/resolve?url_ver=Z39.88-2004&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&ctx_ver=Z39.88-2004&ctx_tim=2021-10-21T00:53:12-04:00&ctx_id=&ctx_enc=info:ofi/enc:UTF-8&rft.genre=article&rft.isCitationLinker=Y&rft.doi=10.1002/0471142727.mb1206s36&rft_val_fmt=info:ofi/fmt:kev:mtx:article&rft_id=info:doi/10.1002/0471142727.mb1206s36&rfr_id=info:sid/primo.exlibrisgroup.com:primo4-article-cLinker": {
       "citation": {
          "ariadne": "article | Informed consent and the geriatric dental patient | Odom John G 1992 | Published in JournalSpecial Care in Dentistry.Volume 12.Issue 5.Page 202-206. | ISSN:0275-1879",
-         "getit": "Article | Purification ofDNA‐Binding Proteins Using Biotin/Streptavidin Affinity Systems | Chodosh Lewis A 1996 | Published in Journal Current protocols in molecular biology Volume 36 Issue 1. | ISSN:1934-3639"
+         "getit": "Article | Purification ofDNA‐Binding Proteins Using Biotin/Streptavidin Affinity Systems | Chodosh Lewis A 1996 Oct | Published in Journal Current protocols in molecular biology Volume 36 Issue 1. | ISSN:1934-3639"
       },
       "errors": {},
       "links": {
