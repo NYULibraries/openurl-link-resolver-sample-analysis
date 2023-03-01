@@ -8,7 +8,7 @@
 ## random-100/
 
 * Sample analyzer version: [56ce201eda2cb0709a7a838fcd6e3059197fae0b](https://github.com/NYULibraries/openurl-link-resolver-sample-analyzer/tree/56ce201eda2cb0709a7a838fcd6e3059197fae0b)
-* Response samples version: [82dd6657300643a2b1a8446a11bdb96b11931bc1](https://github.com/NYULibraries/openurl-link-resolver-response-samples/82dd6657300643a2b1a8446a11bdb96b11931bc1)
+* Response samples version: [06ffcfa9a1d433100f212c5312ba15169fd21054](https://github.com/NYULibraries/openurl-link-resolver-response-samples/06ffcfa9a1d433100f212c5312ba15169fd21054)
 
 ## targeted/
 
