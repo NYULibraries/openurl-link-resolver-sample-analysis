@@ -348,7 +348,11 @@
          "ariadne": "Article | Chinese Porcelain Collection in Topkapi Palace A Witness of Friendship | 20090101 | Published in u4e2d\\u5916\\u6587\\u5316\\u4ea4\\u6d41\\uff1a\\u82f1\\u6587\\u7248 China Issue 2 Page 29 | ISSN:10045015",
          "getit": "Article | Chinese Porcelain Collection in Topkapi Palace A Witness of Friendship | 2009 Jan 01 | Published in Journal u4e2d\\u5916\\u6587\\u5316\\u4ea4\\u6d41\\uff1a\\u82f1\\u6587\\u7248 China Issue 2 Page 29. | ISSN:1004-5015"
       },
-      "errors": {},
+      "errors": {
+         "ariadne": [
+            "Error fetching data from the Ariadne API: TypeError: Failed to fetch"
+         ]
+      },
       "links": {
          "common": [],
          "unique": {
@@ -413,7 +417,11 @@
          "ariadne": "Article | Mountains of madness A scientist's odyssey in antarctica | Long J 20010101 | Published in Palaeontologia Electronica Volume 4 Issue 2 Page XVIII | ISSN:10948074",
          "getit": "Article | Mountains of madness A scientist's odyssey in antarctica | Long J 2001 Jan 01 | Published in Journal Palaeontologia Electronica Volume 4 Issue 2 Page XVIII. | ISSN:1094-8074"
       },
-      "errors": {},
+      "errors": {
+         "ariadne": [
+            "Error fetching data from the Ariadne API: TypeError: Failed to fetch"
+         ]
+      },
       "links": {
          "common": [],
          "unique": {
@@ -575,7 +583,11 @@
          "ariadne": "Article | Can community task groups learn from the principles of group therapy? | Zanbar L 20181020 | Published in Community Development Volume 49 Issue 5 Page 574 | ISSN:19447485",
          "getit": "Article | Can community task groups learn from the principles of group therapy? | Zanbar L 2018 Oct 20 | Published in Journal Community Development Volume 49 Issue 5 Page 574. | ISSN:1557-5330"
       },
-      "errors": {},
+      "errors": {
+         "ariadne": [
+            "Error fetching data from the Ariadne API: TypeError: Failed to fetch"
+         ]
+      },
       "links": {
          "common": [],
          "unique": {
